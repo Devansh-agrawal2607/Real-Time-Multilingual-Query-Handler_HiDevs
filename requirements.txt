@@ -1,1 +1,6 @@
 # Add your project dependencies here
+fastapi
+uvicorn
+openai
+pytest
+python-multipart
